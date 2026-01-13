@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GameEngineProject/.vs/GameEngineProject
+/GameEngineProject/.vs/GameEngineProject/FileContentIndex
+/GameEngineProject/.vs/GameEngineProject/FileContentIndex/350581fa-d29d-46db-a21f-2f1af6717442.vsidx
+/GameEngineProject/.vs/GameEngineProject/FileContentIndex/7f6c6d35-33ba-43c4-ab67-d2201654674c.vsidx
+/GameEngineProject/.vs/GameEngineProject/FileContentIndex/a06000da-ac2b-4c14-b8d3-f23722e1abdb.vsidx
+/GameEngineProject/.vs/GameEngineProject/FileContentIndex/bae506ea-bbc2-4f0e-8e01-fa1ed9f48448.vsidx
+/GameEngineProject/.vs/GameEngineProject/FileContentIndex/dfde3361-c9e5-4d65-b3da-4c2e7d7823eb.vsidx
+/GameEngineProject/.vs/GameEngineProject/v17
+/GameEngineProject/.vs/GameEngineProject/v17/.suo
+/GameEngineProject/.vs/GameEngineProject/v17/.wsuo
+/GameEngineProject/.vs/GameEngineProject/v17/Browse.VC.db
+/GameEngineProject/.vs/GameEngineProject/v17/Browse.VC.db-shm
+/GameEngineProject/.vs/GameEngineProject/v17/Browse.VC.db-wal
+/GameEngineProject/.vs/GameEngineProject/v17/Browse.VC.opendb
+/GameEngineProject/.vs/GameEngineProject/v17/DocumentLayout.backup.json
+/GameEngineProject/.vs/GameEngineProject/v17/DocumentLayout.json
+/GameEngineProject/.vs/GameEngineProject/v17/ipch/AutoPCH/a10ac9923e385b2f
+/GameEngineProject/.vs/GameEngineProject/v17/ipch/AutoPCH/a10ac9923e385b2f/GAMEENGINEPROJECT.ipch
